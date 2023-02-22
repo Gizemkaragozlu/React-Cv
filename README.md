@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<video width="360" height="320" controls="controls">
+  <source src="https://github.com/Gizemkaragozlu/React-Cv/blob/main/ss/SS.mp4" />
+</video>
+
 ## Available Scripts
 
 In the project directory, you can run:
