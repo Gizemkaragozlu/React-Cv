@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+<table>
+<tr><td><img src="https://github.com/Gizemkaragozlu/React-Cv/blob/main/ss/ss1png.png" /></td>
+<td><img src="https://github.com/Gizemkaragozlu/React-Cv/blob/main/ss/ss2.png"/></td></tr>
+<tr><td><img src="https://github.com/Gizemkaragozlu/React-Cv/blob/main/ss/dark1.png"/></td>
+<td><img src="https://github.com/Gizemkaragozlu/React-Cv/blob/main/ss/dark2.png"/></td></tr>
+</table>
+
 ### `npm start`
 
 Runs the app in the development mode.\
